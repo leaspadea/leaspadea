@@ -66,15 +66,6 @@ HTML5 sémantique • Responsive Mobile-First • Accessibilité • Validation 
 
 ---
 
-## 📊 Quelques stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leaspadea&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaspadea&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs"/>
-</p>
-
----
-
 ## 💬 Discutons !
 
 Je serais ravie d'échanger avec :
