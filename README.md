@@ -25,7 +25,7 @@ Je suis actuellement en formation **Intégrateur Web** chez **OpenClassrooms** (
 
 ## 🚀 Mon parcours
 
-Après **4 ans en relation client chez IKEA**, je me forme aujourd'hui au métier de développeuse web.
+Après **4 ans en vente chez IKEA**, je me forme aujourd'hui au métier de développeuse web.
 
 Une reconversion **réfléchie et construite dans le temps**, motivée par la passion du code, la résolution de problèmes et l'envie de construire des produits concrets. Je continue d'ailleurs à travailler chez IKEA le week-end pour financer ma formation 💪
 
